@@ -5,17 +5,11 @@
         <title> Definition Lists</title><
     </head>
     <body>
-        <dl>
-            <dt>&lt;</dt>
-            <dd> The less-than sign is a symbol that means "less than."</dd>
+        <ol>
+            <li>pizza</li>
+            <li>Bobba&#8482;</li>
+            <li>tea</li>
+        </ol>
 
-            <dt>&amp;</dt>
-            <dd> The ampersand sign is used to represent "and".</dd>
-
-            <dt>&trade;</dt>
-            <dd> The trademark symbol is used to denote a trademark.</dd>
-
-
-        </dl>
     </body>
 </html>
